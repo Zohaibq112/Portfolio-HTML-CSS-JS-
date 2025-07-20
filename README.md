@@ -2,7 +2,7 @@
 
 🌟 Welcome to my personal portfolio website's GitHub repository! This site is a testament to my skills in modern web design, utilizing technologies like JavaScript, CSS, HTML, and Sass to create a visually appealing and responsive experience.
 
-🔗 Check out the live site here: [Click Me!](https://Zohaib.software/app)
+
 
 ## 📚 Topics
 
